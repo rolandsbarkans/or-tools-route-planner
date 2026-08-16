@@ -1,65 +1,36 @@
 store_id,store_name,total_v
-104,Store D,12
-107,Store G,8
-108,Store H,9
-113,Store M,25
-114,Store N,14
-120,Store T,30
-123,Store W,11
-128,Store B1,28
-134,Store H1,5
-137,Store K1,12
-141,Store O1,26
-146,Store T1,18
-149,Store W1,30
-150,Store X1,16
-153,Store A2,27
-154,Store B2,21
-156,Store D2,13
-159,Store G2,24
-161,Store I2,19
-163,Store K2,25
-164,Store L2,23
-169,Store Q2,23
-170,Store R2,24
-177,Store Y2,15
-179,Store A3,18
-185,Store G3,5
-193,Store O3,15
-195,Store Q3,10
-204,Store Z3,11
-211,Store G4,28
-212,Store H4,22
-213,Store I4,28
-215,Store K4,25
-221,Store Q4,29
-225,Store U4,28
-229,Store Y4,20
-230,Store Z4,10
-236,Store F5,27
-242,Store L5,20
-248,Store R5,14
-249,Store S5,24
-250,Store T5,9
-269,Store M6,21
-272,Store P6,9
-273,Store Q6,12
-274,Store R6,29
-292,Store J7,17
-298,Store P7,22
-300,Store R7,15
-302,Store T7,27
-303,Store U7,12
-312,Store D8,11
-323,Store O8,30
-334,Store Z8,6
-339,Store E9,24
-349,Store O9,17
-351,Store Q9,15
-366,Store F10,7
-374,Store N10,6
-378,Store R10,16
-386,Store Z10,19
-391,Store E11,30
-392,Store F11,11
-399,Store M11,28
+S01,FamilyMart Xinyi,38.3
+S02,7-Eleven Daan,38.2
+S03,Wellcome Zhongzheng,19.8
+S05,Carrefour Zhongshan,24.2
+S06,RT-Mart Xinyi,31.4
+S07,Simple Mart Daan,16.5
+S08,OK Mart Zhongzheng,15.6
+S09,Hi-Life Songshan,9.7
+S10,FamilyMart Zhongshan,12.1
+S11,7-Eleven Xinyi,31.3
+S12,Wellcome Daan,22.0
+S15,Simple Mart Zhongshan,23.9
+S16,OK Mart Xinyi,10.6
+S18,FamilyMart Zhongzheng,9.1
+S19,7-Eleven Songshan,32.2
+S20,Wellcome Zhongshan,37.1
+S21,PX Mart Xinyi,23.5
+S22,RT-Mart Daan,7.2
+S23,Simple Mart Zhongzheng,34.8
+S24,OK Mart Songshan,14.1
+S26,FamilyMart Xinyi North,22.9
+S27,7-Eleven Daan East,10.2
+S29,PX Mart Daan,32.5
+S30,Carrefour Xinyi,33.1
+S31,Simple Mart Songshan,7.9
+S35,7-Eleven Zhongzheng,14.6
+S36,Wellcome Xinyi,27.6
+S37,PX Mart Zhongshan,34.2
+S38,RT-Mart Zhongzheng,12.5
+S39,Simple Mart Xinyi,33.2
+S41,Hi-Life Xinyi,21.9
+S43,7-Eleven Zhongshan West,25.6
+S44,Wellcome Daan South,28.6
+S48,OK Mart Xinyi East,13.6
+S49,Hi-Life Songshan West,12.4

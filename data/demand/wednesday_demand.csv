@@ -1,63 +1,42 @@
 store_id,store_name,total_v
-101,Store A,26
-102,Store B,27
-105,Store E,13
-108,Store H,13
-109,Store I,5
-110,Store J,25
-113,Store M,19
-115,Store O,30
-119,Store S,8
-121,Store U,13
-127,Store A1,8
-128,Store B1,15
-136,Store J1,28
-139,Store M1,7
-140,Store N1,21
-143,Store Q1,21
-149,Store W1,6
-152,Store Z1,26
-154,Store B2,10
-155,Store C2,7
-158,Store F2,10
-165,Store M2,24
-171,Store S2,19
-174,Store V2,30
-190,Store L3,9
-193,Store O3,18
-197,Store S3,29
-208,Store D4,28
-211,Store G4,22
-212,Store H4,19
-216,Store L4,19
-221,Store Q4,20
-222,Store R4,14
-223,Store S4,13
-225,Store U4,20
-231,Store A5,27
-234,Store D5,28
-241,Store K5,6
-242,Store L5,18
-253,Store W5,6
-261,Store E6,11
-266,Store J6,28
-268,Store L6,30
-269,Store M6,16
-274,Store R6,11
-278,Store V6,22
-279,Store W6,29
-284,Store B7,13
-300,Store R7,8
-301,Store S7,5
-302,Store T7,16
-307,Store Y7,11
-321,Store M8,6
-325,Store Q8,13
-330,Store V8,20
-331,Store W8,14
-333,Store Y8,13
-334,Store Z8,11
-348,Store N9,24
-377,Store Q10,20
-386,Store Z10,8
-390,Store D11,30
+S01,FamilyMart Xinyi,13.3
+S03,Wellcome Zhongzheng,8.3
+S04,PX Mart Songshan,21.8
+S05,Carrefour Zhongshan,30.7
+S06,RT-Mart Xinyi,18.7
+S07,Simple Mart Daan,20.1
+S08,OK Mart Zhongzheng,30.8
+S10,FamilyMart Zhongshan,27.7
+S11,7-Eleven Xinyi,15.2
+S12,Wellcome Daan,39.1
+S13,PX Mart Zhongzheng,16.0
+S15,Simple Mart Zhongshan,21.5
+S16,OK Mart Xinyi,6.1
+S17,Hi-Life Daan,18.1
+S18,FamilyMart Zhongzheng,28.1
+S20,Wellcome Zhongshan,27.1
+S21,PX Mart Xinyi,31.0
+S22,RT-Mart Daan,12.7
+S24,OK Mart Songshan,28.9
+S26,FamilyMart Xinyi North,31.6
+S28,Wellcome Songshan,34.7
+S29,PX Mart Daan,21.8
+S30,Carrefour Xinyi,29.4
+S31,Simple Mart Songshan,35.5
+S32,OK Mart Daan,24.7
+S33,Hi-Life Zhongzheng,26.5
+S34,FamilyMart Songshan,11.3
+S35,7-Eleven Zhongzheng,31.3
+S36,Wellcome Xinyi,37.2
+S37,PX Mart Zhongshan,34.8
+S38,RT-Mart Zhongzheng,38.8
+S39,Simple Mart Xinyi,26.2
+S41,Hi-Life Xinyi,32.6
+S42,FamilyMart Daan South,17.9
+S43,7-Eleven Zhongshan West,11.8
+S44,Wellcome Daan South,35.1
+S45,PX Mart Songshan East,15.4
+S46,Carrefour Daan,34.7
+S48,OK Mart Xinyi East,12.5
+S49,Hi-Life Songshan West,29.7
+S50,FamilyMart Zhongshan South,28.8

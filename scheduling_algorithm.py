@@ -581,8 +581,8 @@ def export_routes_for_ui(data: Dict, result: Dict, data_dir, unloading_time_minu
             'store_address': "Warehouse Address",
             'stop_sequence': 0,
             'coordinates': {
-                'latitude': 56.924874436201804,
-                'longitude': 23.981047131295707
+                'latitude': 25.0408,
+                'longitude': 121.5196
             },
             'demand': 0,
             'unloading_time_minutes': 0,

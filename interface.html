@@ -1000,7 +1000,7 @@
                                                 <input type="number" id="num_vehicles" name="num_vehicles" 
                                                        class="form-control form-control-sm"
                                                        style="border: 1px solid rgba(255,255,255,0.3); background: rgba(255,255,255,0.1); color: white; border-radius: 4px; font-size: 0.75rem;"
-                                                       min="1" max="100" value="12" required>
+                                                       min="1" max="100" value="7" required>
                                             </div>
                                             
                                             <div class="form-group mb-2">
@@ -1176,14 +1176,14 @@
         let driverNames = {}; // Store custom driver names
         let distanceTimeCache = {}; // Cache for distance and time lookups from matrices
 
-        // Warehouse coordinates (Riga)
-        const WAREHOUSE_LAT = 56.924874436201804;
-        const WAREHOUSE_LNG = 23.981047131295707;
+        // Warehouse coordinates (Taipei)
+        const WAREHOUSE_LAT = 25.0408;
+        const WAREHOUSE_LNG = 121.5196;
 
-        // Default map location/zoom (Riga) exposed globally for all map helpers
-        window.DEFAULT_MAP_CENTER_LAT = window.DEFAULT_MAP_CENTER_LAT || 56.9496;
-        window.DEFAULT_MAP_CENTER_LNG = window.DEFAULT_MAP_CENTER_LNG || 24.1052;
-        window.DEFAULT_MAP_ZOOM = window.DEFAULT_MAP_ZOOM || 11;
+        // Default map location/zoom (Taipei) exposed globally for all map helpers
+        window.DEFAULT_MAP_CENTER_LAT = window.DEFAULT_MAP_CENTER_LAT || 25.0408;
+        window.DEFAULT_MAP_CENTER_LNG = window.DEFAULT_MAP_CENTER_LNG || 121.5196;
+        window.DEFAULT_MAP_ZOOM = window.DEFAULT_MAP_ZOOM || 14;
         
         // Timeout management for highlighting
         let highlightTimeouts = {
@@ -1977,7 +1977,7 @@
             
             // Default warehouse coordinates (you may need to adjust these)
             const warehouseCoords = {
-                latitude: WAREHOUSE_LAT, // Default to Riga, Latvia
+                latitude: WAREHOUSE_LAT, // Default to Taipei, Taiwan
                 longitude: WAREHOUSE_LNG
             };
             
@@ -2750,8 +2750,8 @@
                         store_id: "WH",
                         store_name: "Warehouse",
                         coordinates: {
-                            latitude: 56.924874436201804,
-                            longitude: 23.981047131295707
+                            latitude: 25.0408,
+                            longitude: 121.5196
                         },
                         demand: 0,
                         unloading_time_minutes: 0,
@@ -2766,8 +2766,8 @@
                         store_id: "WH",
                         store_name: "Warehouse",
                         coordinates: {
-                            latitude: 56.924874436201804,
-                            longitude: 23.981047131295707
+                            latitude: 25.0408,
+                            longitude: 121.5196         
                         },
                         demand: 0,
                         unloading_time_minutes: 0,
@@ -5923,8 +5923,8 @@
                                         store_name: "Warehouse",
                                         store_address: "Warehouse Address",
                                         coordinates: {
-                                            latitude: 56.924874436201804,
-                                            longitude: 23.981047131295707
+                                            latitude: 25.0408,
+                                            longitude: 121.5196
                                         },
                                         demand: 0,
                                         unloading_time_minutes: 0,
@@ -5940,8 +5940,8 @@
                                         store_name: "Warehouse",
                                         store_address: "Warehouse Address",
                                         coordinates: {
-                                            latitude: 56.924874436201804,
-                                            longitude: 23.981047131295707
+                                            latitude: 25.0408,
+                                            longitude: 121.5196
                                         },
                                         demand: 0,
                                         unloading_time_minutes: 0,
@@ -7864,9 +7864,9 @@
                         }
 
                         // Map functionality
-                        window.DEFAULT_MAP_CENTER_LAT = window.DEFAULT_MAP_CENTER_LAT || 56.9496; // Riga, Latvia
-                        window.DEFAULT_MAP_CENTER_LNG = window.DEFAULT_MAP_CENTER_LNG || 24.1052;
-                        window.DEFAULT_MAP_ZOOM = window.DEFAULT_MAP_ZOOM || 11;
+                        window.DEFAULT_MAP_CENTER_LAT = window.DEFAULT_MAP_CENTER_LAT || 25.0408;
+                        window.DEFAULT_MAP_CENTER_LNG = window.DEFAULT_MAP_CENTER_LNG || 121.5196;
+                        window.DEFAULT_MAP_ZOOM = window.DEFAULT_MAP_ZOOM || 14;
                         const DEFAULT_MAP_CENTER_LAT = window.DEFAULT_MAP_CENTER_LAT;
                         const DEFAULT_MAP_CENTER_LNG = window.DEFAULT_MAP_CENTER_LNG;
                         const DEFAULT_MAP_ZOOM = window.DEFAULT_MAP_ZOOM;
@@ -7900,7 +7900,7 @@
                                 map = null;
                                 routeLayers = [];
                                 
-                                // Initialize map centered on Riga
+                                // Initialize map centered on Taipei
                                 map = L.map('map').setView([DEFAULT_MAP_CENTER_LAT, DEFAULT_MAP_CENTER_LNG], DEFAULT_MAP_ZOOM);
                                 console.log('=== MAP OBJECT CREATED ===', map);
                                 

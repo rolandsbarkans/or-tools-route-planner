@@ -1,0 +1,51 @@
+store_id,store_name,address,latitude,longitude
+S01,FamilyMart Xinyi,"No.191 Xinyi Rd, Da'an, Taipei",25.033,121.5435
+S02,7-Eleven Daan,"No.101 Fuxing S Rd, Da'an, Taipei",25.044,121.53
+S03,Wellcome Zhongzheng,"No.151 Roosevelt Rd, Zhongzheng, Taipei",25.0512,121.5278
+S04,PX Mart Songshan,"No.113 Bade Rd, Songshan, Taipei",25.0389,121.5321
+S05,Carrefour Zhongshan,"No.36 Zhongshan N Rd, Zhongshan, Taipei",25.0467,121.5389
+S06,RT-Mart Xinyi,"No.102 Keelung Rd, Xinyi, Taipei",25.0521,121.5412
+S07,Simple Mart Daan,"No.188 Heping E Rd, Da'an, Taipei",25.0298,121.5387
+S08,OK Mart Zhongzheng,"No.194 Zhongxiao E Rd, Zhongzheng, Taipei",25.0356,121.5467
+S09,Hi-Life Songshan,"No.193 Minsheng E Rd, Songshan, Taipei",25.0423,121.5198
+S10,FamilyMart Zhongshan,"No.123 Nanjing E Rd, Zhongshan, Taipei",25.0489,121.5234
+S11,7-Eleven Xinyi,"No.63 Renai Rd, Da'an, Taipei",25.0534,121.5156
+S12,Wellcome Daan,"No.114 Dunhua S Rd, Da'an, Taipei",25.0312,121.5289
+S13,PX Mart Zhongzheng,"No.130 Zhongxiao W Rd, Zhongzheng, Taipei",25.0478,121.5456
+S14,Carrefour Songshan,"No.58 Civic Blvd, Songshan, Taipei",25.0401,121.5512
+S15,Simple Mart Zhongshan,"No.192 Linsen N Rd, Zhongshan, Taipei",25.0367,121.5178
+S16,OK Mart Xinyi,"No.111 Xinyi Rd Sec 5, Xinyi, Taipei",25.0445,121.5534
+S17,Hi-Life Daan,"No.70 Shida Rd, Da'an, Taipei",25.0289,121.5445
+S18,FamilyMart Zhongzheng,"No.94 Hangzhou S Rd, Zhongzheng, Taipei",25.0556,121.5334
+S19,7-Eleven Songshan,"No.22 Guangfu N Rd, Songshan, Taipei",25.0323,121.5512
+S20,Wellcome Zhongshan,"No.122 Tianmu W Rd, Zhongshan, Taipei",25.0412,121.5267
+S21,PX Mart Xinyi,"No.69 Songren Rd, Xinyi, Taipei",25.049,121.5178
+S22,RT-Mart Daan,"No.186 Yongkang St, Da'an, Taipei",25.0378,121.5398
+S23,Simple Mart Zhongzheng,"No.60 Zhonghua Rd, Zhongzheng, Taipei",25.0534,121.5489
+S24,OK Mart Songshan,"No.49 Bade Rd Sec 2, Songshan, Taipei",25.0267,121.5356
+S25,Hi-Life Zhongshan,"No.120 Minquan E Rd, Zhongshan, Taipei",25.0456,121.5145
+S26,FamilyMart Xinyi North,"No.62 Anhe Rd, Da'an, Taipei",25.0389,121.5556
+S27,7-Eleven Daan East,"No.69 Jianguo S Rd, Da'an, Taipei",25.0512,121.5367
+S28,Wellcome Songshan,"No.78 Wuchang St, Zhongzheng, Taipei",25.0334,121.5234
+S29,PX Mart Daan,"No.137 Dunhua N Rd, Songshan, Taipei",25.0478,121.5312
+S30,Carrefour Xinyi,"No.54 Zhongshan S Rd, Zhongshan, Taipei",25.0423,121.5423
+S31,Simple Mart Songshan,"No.181 Songgao Rd, Xinyi, Taipei",25.0289,121.5489
+S32,OK Mart Daan,"No.70 Taishun St, Da'an, Taipei",25.0545,121.5245
+S33,Hi-Life Zhongzheng,"No.155 Aiguo W Rd, Zhongzheng, Taipei",25.0367,121.5145
+S34,FamilyMart Songshan,"No.187 Nanjing W Rd, Zhongshan, Taipei",25.0434,121.5478
+S35,7-Eleven Zhongzheng,"No.138 Guanqian Rd, Zhongzheng, Taipei",25.0301,121.5323
+S36,Wellcome Xinyi,"No.76 Guangfu S Rd, Xinyi, Taipei",25.0489,121.5534
+S37,PX Mart Zhongshan,"No.133 Mingshui Rd, Zhongshan, Taipei",25.0412,121.5189
+S38,RT-Mart Zhongzheng,"No.155 Zhongshan N Rd Sec 2, Zhongshan, Taipei",25.0356,121.5412
+S39,Simple Mart Xinyi,"No.152 Xinsheng S Rd, Da'an, Taipei",25.0523,121.5301
+S40,OK Mart Zhongshan,"No.9 Chengde Rd, Zhongshan, Taipei",25.0278,121.5412
+S41,Hi-Life Xinyi,"No.19 Songzhi Rd, Xinyi, Taipei",25.0445,121.5367
+S42,FamilyMart Daan South,"No.60 Shuchang St, Da'an, Taipei",25.0389,121.5245
+S43,7-Eleven Zhongshan West,"No.71 Chifeng St, Zhongshan, Taipei",25.0467,121.5423
+S44,Wellcome Daan South,"No.140 Heping W Rd, Da'an, Taipei",25.0312,121.5267
+S45,PX Mart Songshan East,"No.19 Badeling Rd, Songshan, Taipei",25.0534,121.5178
+S46,Carrefour Daan,"No.90 Furen St, Da'an, Taipei",25.0423,121.5345
+S47,Simple Mart Daan North,"No.159 Wenzhou St, Da'an, Taipei",25.0378,121.5489
+S48,OK Mart Xinyi East,"No.178 Songping Rd, Xinyi, Taipei",25.0501,121.5412
+S49,Hi-Life Songshan West,"No.13 Xinglong Rd, Wenshan, Taipei",25.0345,121.5356
+S50,FamilyMart Zhongshan South,"No.87 Longjiang Rd, Zhongshan, Taipei",25.0456,121.5267

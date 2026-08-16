@@ -4,6 +4,10 @@
 
 A vehicle routing web app that takes a set of store locations with delivery demand and generates optimised multi-vehicle delivery routes using Google OR-Tools. Built on synthetic Taipei road network data with a Leaflet map interface for visual route inspection and manual adjustment.
 
+## Demo
+
+https://github.com/user-attachments/assets/fb520da1-5da7-49d2-a6a0-8a245c8a0db1
+
 ## What I did
 
 Generated 50 store locations across central Taipei with daily demand profiles for each weekday, built driving time and distance matrices using the Haversine approximation with an urban road factor, and wired everything into a Flask backend that runs a constrained VRP solver. The frontend lets you load stores, drag-and-drop them between routes, rename drivers, and view per-route metrics in real time.
